@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Niyati Shah!
-- Here to see what people code!
-- Currently into Javascript!
+- 👋 Hi, I’m Niyati Shah! Senior Dev with 6 years of experience.
+- Languages known/ Worked with : Java, Javascript, Typescript.
+- Trying to contribute regularly to the community.
 
 
 <!---
