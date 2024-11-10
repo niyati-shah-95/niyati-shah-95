@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Niyati Shah! Senior Dev with 6 years of experience.
-- Languages known/ Worked with : Java, Javascript, Typescript.
-- Trying to contribute regularly to the community.
-
+- 👋 Hi, I’m Niyati! I am passionate developer who tries to learn everything at once 🤷‍♀️
+- Professional experience in: Java, Javascript, Typescript.
 
 <!---
 niyati-shah-95/niyati-shah-95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
